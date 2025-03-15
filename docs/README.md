@@ -14,7 +14,7 @@
 
 ### 参与编辑
 
-本手册基于 Gitbook，托管于 Github 开源仓库。
+本手册基于 Gitbook，托管于 [Github 开源仓库](https://github.com/CuberQAQ/SurviveTAIYA)。
 
 你需要注册一个 Github 账号，然后 fork 本仓库，修改内容后向主仓库提交 Pull Request (PR)，具体流程请百度。
 
